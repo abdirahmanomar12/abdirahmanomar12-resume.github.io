@@ -1,4 +1,3 @@
-# abdirahmanomar12-resume.github.io
  <p>With over <a href="/resume.html">2years of experience</a> in Merchandise specialist
 
         <div class="value-props">
